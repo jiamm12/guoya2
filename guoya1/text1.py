@@ -50,6 +50,7 @@ try:
 except FileExistsError:#发生异常，执行这块代码
     print("文件夹已存在")
 print("adassda")
+print("adassda")
 
 
 
