@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c9890776-d9fd-4b43-803e-429540725f44" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guoya2/demo_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/guoya2/demo_1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/guoya2/demo_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="38" column="19" lean-forward="true" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+            <state relative-caret-position="271">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -195,7 +196,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576725187028</updated>
-      <workItem from="1576725199115" duration="25526000" />
+      <workItem from="1576725199115" duration="26086000" />
     </task>
     <task id="LOCAL-00001" summary="我熬上传">
       <created>1576833368854</created>
@@ -208,7 +209,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25526000" />
+    <option name="totallyTimeSpent" value="26086000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -220,7 +221,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.4992378" visible="true" weight="0.37351444" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.4992378" visible="true" weight="0.3293718" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5007622" side_tool="true" weight="0.37351444" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293718" />
@@ -280,8 +281,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/guoya2/demo_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="38" column="19" lean-forward="true" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        <state relative-caret-position="271">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
