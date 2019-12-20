@@ -39,6 +39,9 @@ phone1 = Product("土豪金")
 print(phone1.color)
 print(phone1.color)
 print(phone1.color)
+print(phone1.color)
+print(phone1.color)
+
 
 
 

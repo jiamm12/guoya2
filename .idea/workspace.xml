@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c9890776-d9fd-4b43-803e-429540725f44" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guoya2/demo_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/guoya2/demo_1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -196,12 +195,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576725187028</updated>
-      <workItem from="1576725199115" duration="25212000" />
+      <workItem from="1576725199115" duration="25526000" />
     </task>
+    <task id="LOCAL-00001" summary="我熬上传">
+      <created>1576833368854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576833368855</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25212000" />
+    <option name="totallyTimeSpent" value="25526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -231,6 +238,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="我熬上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="我熬上传" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/guoya_demo$text1.coverage" NAME="text1 Coverage Results" MODIFIED="1576808489002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guoya1" />
