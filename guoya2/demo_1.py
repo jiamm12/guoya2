@@ -44,6 +44,7 @@ print(phone1.color)
 print(phone1.color)
 print(phone1.color)
 print(phone1.color)
+print(phone1.color)
 
 
 
