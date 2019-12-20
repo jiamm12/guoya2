@@ -37,6 +37,10 @@ class Product():
 phone1 = Product("土豪金")
 #获取属性
 print(phone1.color)
+print(phone1.color)
+print(phone1.color)
+
+
 
 
 
